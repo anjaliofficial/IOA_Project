@@ -1,0 +1,16 @@
+feature,coef
+age,0.060933077684375385
+avg_listening_hours_per_week,-0.09366733208809046
+total_songs_played,0.09659896513683178
+skip_rate_pct,0.1389026351955495
+satisfaction_score,0.003627495897276175
+monthly_fee,-0.05072285731597338
+tenure_days,-0.01905242628679189
+subscription_type_family,0.1635846430522034
+subscription_type_free,-0.191362504607789
+subscription_type_premium,-0.0013180974695934493
+subscription_type_student,-0.04636250060652016
+gender_female,0.08206299421388717
+gender_male,0.13364258252641467
+gender_other,-0.34202273931419686
+gender_unknown,0.05085870294217463
